@@ -5,4 +5,3 @@
 - Tech Stack
 -- used as a main: C, JAVA
 -- used at least once: python, JAVA script, linux, html, css
-![topograp2's github stats](https://github-readme-stats.vercel.app/api?username=topograp2&show_icons=true)
