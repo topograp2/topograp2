@@ -4,6 +4,4 @@
 
 🌏 Hello, I'm @topograp2 🌏
 - Computer Science Engineering Student
-- Tech Stack
--- used as a main: C, JAVA
--- used at least once: python, JAVA script, linux, html, css
+
