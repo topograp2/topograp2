@@ -19,7 +19,7 @@
 <h3>🎶 Experience</h3>
 <ul>
   <li><strong>EFUB</strong> - 웹개발 동아리 백엔드 리드 ( 2025.03 ~ ) </li>
-  <li><strong>EWHAIAN</strong> - 45기 / 웹개발팀 팀장 ( 2023.09 ~ ) </li>
+  <li><strong>EWHAIAN</strong> - 45기 / 웹개발팀 팀원 ( 2024.03 ~ 2024.12 ), 팀장 ( 2025.01 ~ 2025.06 ) </li>
   <li><strong>Altu-Bitu</strong> - 알고리즘 스터디 ( 2024.09 ~ 2024.12 ) </li>
 </ul>
 <!--<h3>Certificate</h3> sqld, toeic speaking AL
